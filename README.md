@@ -7,6 +7,6 @@
 💞️ Our team is on the lookout for opportunities to collaborate on open-source projects that resonate with our interests in photography and videography tools, educational resources, and software that enhances the creative workflow. We believe in leveraging the power of our community to foster innovation and excellence in our field.
 
 📫 For those interested in collaborating or who have inquiries, we welcome you to reach out through our website, [hackography.com](https://hackography.com). Additionally, you can connect with us and follow updates on our social media platforms:
-- Twitter: [@hackography](https://twitter.com/hackographycom)
-- Instagram: [@hackography](https://instagram.com/hackographycom)
+- Twitter: [@hackographycom](https://twitter.com/hackographycom)
+- Instagram: [@hackographycom](https://instagram.com/hackographycom)
 - LinkedIn: [Hackography](https://linkedin.com/company/hackography)
