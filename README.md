@@ -1,6 +1,6 @@
-# 👋 Hi, We’re @hackographycom
+# 👋 Hi, there!
 
-👀 We’re @hackographycom, the dedicated team behind the [Hackography](https://hackography.com/) project, a proud part of the Hackography GitHub organization. We are deeply interested in the intersection between technology and art, with a keen focus on photography, filmmaking, videography, and cinematography gear and techniques. Our mission is to optimize creative tools for peak performance, delving into the symbiotic relationship between technological innovation and artistic creativity.
+👀 We’re the team behind the [Hackography](https://hackography.com/) project, a proud part of the Hackography GitHub organization. We are deeply interested in the intersection between technology and art, with a keen focus on photography, filmmaking, videography, and cinematography gear and techniques. Our mission is to optimize creative tools for peak performance, delving into the symbiotic relationship between technological innovation and artistic creativity.
 
 🌱 Currently, we are exploring the forefront of camera technology, delving into realms such as AI-enhanced photography, computational photography, and the rapidly evolving world of mirrorless cameras. Alongside hardware, we're immersing ourselves in the latest post-production software to offer the most detailed guides and tutorials available.
 
